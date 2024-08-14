@@ -20,12 +20,6 @@
   ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
-<h3> 📈 &nbsp;Github Stats</h3>
-
-<a href="https://github.com/daniel41silva05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel41silva05&theme=buefy&layout=compact" />
-</a>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
