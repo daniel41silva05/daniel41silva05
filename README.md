@@ -2,13 +2,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I am a Computer Engineering student, committed, focused on results and always looking for learning and new challenges.
+- 🎓 &nbsp; I am a Software Engineering student, committed, focused on results and always looking for learning and new challenges.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
