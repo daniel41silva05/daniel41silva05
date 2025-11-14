@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I am a Software Engineering student, committed, focused on results and always looking for learning and new challenges.
+- 🎓 &nbsp; Software engineering student with a solid background in backend development, data modeling, and process optimization. Focused on transforming complex problems into efficient software solutions through clean architecture and solid design principles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -11,7 +11,6 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
