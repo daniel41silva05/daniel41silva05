@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software Engineer with a solid background in Backend development and systems architecture. Proficient in data modeling and process optimization with Full Stack experience. Focused on transforming complex problems into efficient software solutions through clean architecture and solid design principles.
+- &nbsp; Software Engineer with a solid background in Backend development and systems architecture. Proficient in data modeling and process optimization with Full Stack experience. Focused on transforming complex problems into efficient software solutions through clean architecture and solid design principles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -26,5 +26,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danielsilva41/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Silva-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:danielandresilva41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dsilva260405@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:danielandresilva41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danielandresilav41@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
