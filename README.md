@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software engineering student with a solid background in backend development, data modeling, and process optimization. Focused on transforming complex problems into efficient software solutions through clean architecture and solid design principles.
+- 🎓 &nbsp; Software engineering with a solid background in backend development, data modeling, and process optimization. Focused on transforming complex problems into efficient software solutions through clean architecture and solid design principles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
